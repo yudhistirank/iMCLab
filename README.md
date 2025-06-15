@@ -62,25 +62,3 @@ if (jarak < 10) {
 3. Buka **Serial Monitor** (9600 baud) untuk melihat jarak yang terbaca
 
 ---
-
-## 📂 Struktur File
-
-```
-├── 01_Test_iMCLab.ino     ← File utama Arduino sketch
-└── README.md              ← Dokumentasi proyek
-```
-
----
-
-## 📸 Dokumentasi Tambahan _(opsional)_
-
-Jika ada, tambahkan:
-- Gambar wiring diagram
-- Video demo sistem
-- Data pengujian
-
----
-
-## 🧑‍💻 Kontributor
-
-Proyek ini dibuat oleh tim praktikum iMCLab untuk keperluan pembelajaran dan pengujian sensor + aktuator berbasis Arduino.
