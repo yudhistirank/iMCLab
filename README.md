@@ -1,4 +1,4 @@
-# 🤖 Sensor Ultrasonik dengan Servo & Buzzer – iMCLab Test
+# 🤖 iMCLab Test
 
 ## 📌 Deskripsi Singkat Proyek
 
